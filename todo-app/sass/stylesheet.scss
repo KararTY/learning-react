@@ -1,0 +1,24 @@
+@charset "utf-8";
+
+/*! bulma.io v0.8.2 | MIT License | github.com/jgthms/bulma */
+@import "../node_modules/bulma/sass/utilities/_all.sass";
+
+@import "../node_modules/bulma/sass/base/_all.sass";
+
+@import "../node_modules/bulma/sass/helpers/_all.sass";
+
+@import "../node_modules/bulma/sass/elements/container.sass";
+@import "../node_modules/bulma/sass/elements/button.sass";
+@import "../node_modules/bulma/sass/elements/content.sass";
+@import "../node_modules/bulma/sass/elements/other.sass";
+
+@import "../node_modules/bulma/sass/form/shared.sass";
+@import "../node_modules/bulma/sass/form/input-textarea.sass";
+@import "../node_modules/bulma/sass/form/tools.sass";
+
+@import "../node_modules/bulma/sass/components/card.sass";
+
+@import "../node_modules/bulma/sass/layout/section.sass";
+
+/*! Custom css */
+@import "./custom.scss";
